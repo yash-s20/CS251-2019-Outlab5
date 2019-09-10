@@ -13,12 +13,5 @@
 		"ANMOL SINGH": "",
 		"TALLURI SAI TEJA": "",
 	},
-	/* sample addition
-	"<team_name>": {
-		<roll_no1>: <github-id1>
-		<roll_no2>: <github-id2>
-		<roll_no3>: <github-id3>
-	}
-	*/ 
-
+	
 }
