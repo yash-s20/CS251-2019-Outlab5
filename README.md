@@ -7,6 +7,7 @@ This is a beginners tutorial to using git and github
 	{
 		"roll_no1": "github_id1"
 		"roll_no2": "github_id2"
+		"roll_no3": "github_id3"
 		...
 	}
   for all in your team
