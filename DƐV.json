@@ -1,8 +1,15 @@
 {
-	"180050010": "anubhavsaikia",
-	"180050015": "atulyagh03",
-	"180050089": [
-		"jsahil730",
-		"Sahil Jain",
+	"180050010": [ 
+		"anubhavsaikia",
+		"Anubhav Saikia",
 	],
+
+	"180050015": [
+		"atulyagh03",
+		"Atulya Kumar Verma",
+	],
+	"180050089": [
+                "jsahil730",
+                "Sahil Jain",
+        ],
 }
