@@ -12,3 +12,4 @@ This is a beginners tutorial to using git and github
   for all in your team
 
 Rest of the instructions are in the problem statement (these are as well).
+You marks for this one will be announced on a comment on your pull request :)
