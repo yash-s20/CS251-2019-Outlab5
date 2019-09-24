@@ -1,6 +1,13 @@
 {
-	"180050111":"tathagatv" ,
-	"180070050":"samadkoita" ,
+	
+	"180050111":[
+		"tathagatv",
+		"Tathagat Verma",
+	],
+	"180070050":[
+		"samadkoita",
+	       "Samad Rizwan Koita",
+	],
 	"180070060":[
 		"sumanyug",
 		"Sumanyu Ghoshal",
